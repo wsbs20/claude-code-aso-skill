@@ -18,7 +18,7 @@
 
 ## 📋 Overview
 
-The **ASO Agent System** is a comprehensive, production-ready multi-agent framework for App Store Optimization (ASO) built for **Claude Code** and **Claude Desktop/Web App**. It combines specialized AI agents with real-time data fetching to generate **actionable, copy-paste ready deliverables** for iOS and Android app optimization.
+The **ASO (App Stores Optimization) Agent System for Claude Code** is a comprehensive, production-ready multi-agent framework for App Store Optimization (ASO) built for **Claude Code** and **Claude Desktop/Web App**. It combines specialized AI agents including a Agent Skill (Claude's New Feature) set with real-time data fetching to generate **actionable, copy-paste ready deliverables** for iOS and Android app optimization.
 
 **Two ways to use:**
 - 🖥️ **Claude Code CLI** - Full multi-agent system with automated workflows (developers)
